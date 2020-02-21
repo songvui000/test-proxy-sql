@@ -21,6 +21,7 @@ set :conditionally_migrate, true
 set :linked_files, %w{
   config/application.yml
   config/database.yml
+  config/credentials.yml.enc
 }
 
 namespace :setup_environment do

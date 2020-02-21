@@ -27,5 +27,6 @@
 /config/master.key
 /config/application.yml
 /config/database.yml
+/config/credentials.yml.enc
 /config/storage.yml
 /db/schema.rb
