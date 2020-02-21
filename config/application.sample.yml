@@ -1,0 +1,5 @@
+development:
+  username: ''
+  password: ''
+  mysql_host: ''
+  port: 3306

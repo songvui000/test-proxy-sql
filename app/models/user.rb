@@ -1,0 +1,2 @@
+class User < Member
+end
