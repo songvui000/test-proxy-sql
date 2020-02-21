@@ -14,6 +14,10 @@ set :linked_dirs, %w{
   public/system
 }
 
+set :rbenv_type, :user
+set :rbenv_ruby, '2.6.5'
+set :conditionally_migrate, true
+
 set :linked_files, %w{
   config/application.yml
   config/database.yml
