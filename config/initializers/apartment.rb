@@ -58,7 +58,7 @@ Apartment.configure do |config|
   #
   # The default behaviour is true.
   #
-  # config.use_schemas = true
+  config.use_schemas = true
 
   #
   # ==> PostgreSQL only options

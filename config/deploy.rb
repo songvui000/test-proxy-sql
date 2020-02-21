@@ -24,6 +24,7 @@ set :linked_files, %w{
   config/credentials.yml.enc
   config/master.key
   config/storage.yml
+  config/secrets.yml
 }
 
 namespace :setup_environment do
